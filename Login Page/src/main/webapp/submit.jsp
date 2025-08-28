@@ -8,8 +8,7 @@
 </head>
 <body>
 <center>
-
-     <h1 style="margin:20px">Thanks For Submitting Your Queries We Will Get Back Shortly.....!</h1>
+     <h1 style="margin:20px">Thanks For Submitting Your Queries We Will Get Back Shortly</h1>
  </center>   
 
 </body>
